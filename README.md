@@ -42,7 +42,7 @@ Date	Category	Amount
 
 Clone the repo
 
-git clone https://github.com/your-username/ExpenseVision.git
+
 cd ExpenseVision
 
 
